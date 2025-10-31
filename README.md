@@ -4,7 +4,7 @@ This repository contains the foundational **PACE Strategy Document** and **Proje
 
 ## 🎓 Credential Verification
 **Course:** Foundations of Data Science (Course One)
-**Certificate Link:** [Verify My Certificate Here]([Link to your Certificate/Badge](https://coursera.org/share/28c182b34f889cca6098de74abf75bd7))
+**Certificate Link:** [Verify My Certificate Here](https://coursera.org/share/28c182b34f889cca6098de74abf75bd7))
 
 ---
 
