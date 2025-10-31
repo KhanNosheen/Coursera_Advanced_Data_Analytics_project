@@ -32,7 +32,7 @@ This project showcases the non-technical but critical skills required for a succ
 
 ## 📄 Contents of Repository
 
-* `PACE-Strategy_Project_1.pdf`: The complete, 6-page PACE Strategy Document and Project Proposal.
+* `PACE-Strategy_Project_1.pdf`: The complete, 7-page PACE Strategy Document and Project Proposal.
 
 ***
 
