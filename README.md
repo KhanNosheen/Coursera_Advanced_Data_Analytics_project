@@ -1,7 +1,6 @@
 # 📊 Data Analytics Strategy & Project Planning (PACE Framework)
 
 This repository contains the foundational **PACE Strategy Document** and **Project Proposal** developed for the Coursera Advanced Data Analytics Specialization, **Course 1: Foundations of Data Science**.
-# 📊 Data Analytics Strategy & Project Planning (PACE Framework)
 
 ## 🎓 Credential Verification
 **Course:** Foundations of Data Science (Course One)
