@@ -14,7 +14,7 @@ This repository contains the foundational **PACE Strategy Document** and **Proje
 ---
 
 ## 📄 Contents of Repository
-* `[File Name of Your PDF].pdf`: The complete, 6-page PACE Strategy Document and Project Proposal.
+* `PACE-Strategy_Project_1.pdf`: The complete, 6-page PACE Strategy Document and Project Proposal.
 
 ***
 
